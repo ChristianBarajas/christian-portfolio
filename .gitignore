@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.npm-cache/
+.firebase/
+.firebaserc
+.DS_Store
+*.local
+*.log
